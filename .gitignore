@@ -1,0 +1,5 @@
+# Compiled binary
+go-cachepacker
+
+# Build artifacts
+*.zip
